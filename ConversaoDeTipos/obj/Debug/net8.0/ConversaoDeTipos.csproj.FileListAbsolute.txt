@@ -1,0 +1,14 @@
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.exe
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.deps.json
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.runtimeconfig.json
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.dll
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.pdb
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.AssemblyInfoInputs.cache
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.AssemblyInfo.cs
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.csproj.CoreCompileInputs.cache
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.dll
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\refint\ConversaoDeTipos.dll
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.pdb
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.genruntimeconfig.cache
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ref\ConversaoDeTipos.dll

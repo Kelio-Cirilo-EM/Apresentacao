@@ -1,0 +1,14 @@
+C:\WorkKelio\Apresentacao\UpcastDowncast\bin\Debug\net8.0\UpcastDowncast.exe
+C:\WorkKelio\Apresentacao\UpcastDowncast\bin\Debug\net8.0\UpcastDowncast.deps.json
+C:\WorkKelio\Apresentacao\UpcastDowncast\bin\Debug\net8.0\UpcastDowncast.runtimeconfig.json
+C:\WorkKelio\Apresentacao\UpcastDowncast\bin\Debug\net8.0\UpcastDowncast.dll
+C:\WorkKelio\Apresentacao\UpcastDowncast\bin\Debug\net8.0\UpcastDowncast.pdb
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.AssemblyInfoInputs.cache
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.AssemblyInfo.cs
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.csproj.CoreCompileInputs.cache
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.dll
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\refint\UpcastDowncast.dll
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.pdb
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.genruntimeconfig.cache
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\ref\UpcastDowncast.dll
