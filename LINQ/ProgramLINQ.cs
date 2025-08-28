@@ -125,24 +125,12 @@ namespace LINQ
                     );
             }
 
-            var estatisticas = numeros1.Aggregate(
-                seed: new { Soma = 0, Quantidade = 0 },
-                func: (acc, numero) => new
-                {
-                    Soma = acc.Soma + numero,
-                    Quantidade = acc.Quantidade + 1
-                },
-                resultSelector: acc => new
-                {
-                    acc.Soma,
-                    acc.Quantidade,
-                    Media = (double)acc.Soma / acc.Quantidade
-                }
-            );
+            int somaIdade = clientes.Aggregate(
+                0,
+                (acc, cliente) => acc + cliente.Idade
+                );
 
-            Console.WriteLine($"Soma: {estatisticas.Soma}");
-            Console.WriteLine($"Quantidade: {estatisticas.Quantidade}");
-            Console.WriteLine($"Média: {estatisticas.Media}");
+            Console.WriteLine(somaIdade);
         }
     }
 }

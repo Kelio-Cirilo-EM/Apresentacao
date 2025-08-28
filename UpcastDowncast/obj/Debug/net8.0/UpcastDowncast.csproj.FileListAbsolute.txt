@@ -12,3 +12,4 @@ C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\refint\UpcastDowncast.
 C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.pdb
 C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.genruntimeconfig.cache
 C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\ref\UpcastDowncast.dll
+C:\WorkKelio\Apresentacao\UpcastDowncast\obj\Debug\net8.0\UpcastDowncast.sourcelink.json

@@ -12,3 +12,4 @@ C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\refint\ConversaoDeTi
 C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.pdb
 C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.genruntimeconfig.cache
 C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ref\ConversaoDeTipos.dll
+C:\WorkKelio\Apresentacao\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.sourcelink.json

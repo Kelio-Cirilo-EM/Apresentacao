@@ -4,9 +4,9 @@
     {
         public Pedido() { }
 
-        public Pedido(string nome, decimal valor)
+        public Pedido(string produto, decimal valor)
         {
-            Produto = nome;
+            Produto = produto;
             Valor = valor;
         }
 

@@ -39,7 +39,7 @@ namespace Generics
             string stringInteporlada = $"A data é: {day}/{month}/{year}"; // Boxing
 
             List<string> listaNomes = ["João", "Júlia"];
-            List<object> listaObject = ["Hudson", 16];
+            List<object> listaObject = ["Hudson", 16]; // int Boxing
             GenericListPessoa<Pessoa> listaPessoa = [];
 
             listaPessoa.Add(new Pessoa
@@ -58,9 +58,13 @@ namespace Generics
             }
             foreach (object objeto in listaObject)
             {
-                if (objeto is string s)
+                if (objeto is string s) // Unboxing
                 {
                     // Output: Hudson
+                }
+                else
+                {
+                    // Falhou o Unboxing!
                 }
             }
             foreach (Pessoa pessoa in listaPessoa)

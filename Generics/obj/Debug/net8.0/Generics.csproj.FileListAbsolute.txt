@@ -12,3 +12,4 @@ C:\WorkKelio\Apresentacao\Generics\obj\Debug\net8.0\refint\Generics.dll
 C:\WorkKelio\Apresentacao\Generics\obj\Debug\net8.0\Generics.pdb
 C:\WorkKelio\Apresentacao\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
 C:\WorkKelio\Apresentacao\Generics\obj\Debug\net8.0\ref\Generics.dll
+C:\WorkKelio\Apresentacao\Generics\obj\Debug\net8.0\Generics.sourcelink.json
