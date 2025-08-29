@@ -58,13 +58,13 @@ namespace Generics
             }
             foreach (object objeto in listaObject)
             {
-                if (objeto is string s) // Unboxing
+                if (objeto is string s) 
                 {
                     // Output: Hudson
                 }
                 else
                 {
-                    // Falhou o Unboxing!
+                    // Falhou!
                 }
             }
             foreach (Pessoa pessoa in listaPessoa)
